@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[gl:home|Door43 (gl)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-gl|d43-gl repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-gl/archive/master.zip|d43-gl.zip]]
+
+**Recent Changes**
+{{changes>ns = gl}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/gl|Ethnologue data]]
+
